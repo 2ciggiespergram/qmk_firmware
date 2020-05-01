@@ -4,10 +4,6 @@
 
 A customizable 60% keyboard.
 
-Keyboard Maintainer: QMK Community  
-Hardware Supported: DZ60  
-Hardware Availability: [kbdfans](https://kbdfans.myshopify.com/collections/pcb/products/dz60-60-pcb?variant=40971616717)
-
 Make example for this keyboard (after setting up your build environment):
 
     make dz60:default
