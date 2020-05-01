@@ -73,9 +73,6 @@ void alt_finished (qk_tap_dance_state_t *state, void *user_data) {
     case SINGLE_HOLD: register_code(KC_LALT); break;
     case DOUBLE_TAP: set_oneshot_layer(1, ONESHOT_START); set_oneshot_layer(1, ONESHOT_PRESSED); break;
     case DOUBLE_HOLD: register_code(KC_LALT); layer_on(1); break;
-    //Last case is for fast typing. Assuming your key is `f`:
-    //For example, when typing the word `buffer`, and you want to make sure that you send `ff` and not `Esc`.
-    //In order to type `ff` when typing fast, the next character will have to be hit within the `TAPPING_TERM`, which by default is 200ms.
   }
 }
 
