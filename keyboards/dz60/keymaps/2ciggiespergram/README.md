@@ -1,30 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@2ciggiespergram
-2ciggiespergram /
-qmk_firmware
-forked from qmk/qmk_firmware
-
-0
-0
-
-    12.7k
-
-Code
-Pull requests 0
-Actions
-Projects 0
-Security 0
-Insights
-
-    Settings
-
-qmk_firmware/keyboards/dz60/
-
 1
 
 # DZ60
